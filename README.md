@@ -1,2 +1,3 @@
 # HomeworkTest
-Homework to schoolstpotok5
+Homework for schoolstpotok5
+^_^
